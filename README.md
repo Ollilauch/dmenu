@@ -1,6 +1,6 @@
 # Patches
-center
-fuzzy highlight
+center\
+fuzzy highlight\
 caseinsensetive
 
 ### Installation
